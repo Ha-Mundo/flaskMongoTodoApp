@@ -1,0 +1,39 @@
+body {
+	background: rebeccapurple;
+	font-family: 'Oswald', 'Futura', sans-serif;
+}
+#wrapper {
+	margin-top: 10% !important;
+}
+#content {
+	background: springgreen;
+	padding: 25px;
+	border-radius: 3rem !important;
+}
+#content > h2 {
+	font-size: 22px;
+	text-align: center;
+	padding-top: 0;
+}
+.t10 {
+	margin-top: 10px;
+}
+.t20 {
+	margin-top: 20px;
+}
+.todo-completed {
+	text-decoration: line-through;
+	background: rgba(149, 165, 166, .3);
+}
+footer {
+	margin-top: 20px;
+	color: white;
+}
+.btn-group a {
+	background: purple;
+	border: none;
+}
+.btn-group a:hover{
+	background: rebeccapurple;
+	border:	none;
+}
